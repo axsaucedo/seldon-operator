@@ -1,0 +1,5 @@
+#! package-manifest: config/operatorhub/seldonoperator.v1alpha2.clusterserviceversion.yaml
+packageName: seldonoperator
+channels:
+- name: valpha1
+currentCSV: seldonoperator.v1alpha2
